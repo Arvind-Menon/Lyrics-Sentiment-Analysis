@@ -7,4 +7,4 @@ The lyrics of respective songs were retrieved using API provided by LyricsWika a
 
 
 
-Courtesy: https://www.coursera.org/learn/sentiment-analysis-bert/hom
+Courtesy: https://www.coursera.org/learn/sentiment-analysis-bert
